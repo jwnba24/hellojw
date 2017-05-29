@@ -1,3 +1,7 @@
 this is my first git project
 change the world
-这是一个bug修复版本
+<<<<<<< HEAD
+这是一个bug修复版本2222222222222
+=======
+这是一个bug修复版本111111111
+>>>>>>> refs/remotes/origin/新分组
